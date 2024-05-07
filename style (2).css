@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#chatPage {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+#messageList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#messageList li {
+  margin-bottom: 10px;
+}
+
+#messageList li span {
+  font-weight: bold;
+}
+
+#messageInput {
+  width: 70%;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
